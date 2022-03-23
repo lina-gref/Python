@@ -125,7 +125,7 @@ def quoteprice ():
     headers = {
   'Content-Type': 'application/json'
     }
-
+    
     response = requests.request("YOUR HTTP METHOD", url, headers=headers, data = payload)
 
     driver.get("getting back to the url of hotel creating")
