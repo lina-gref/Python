@@ -1,7 +1,7 @@
 #this script was written a while ago (in 2019 I guess), using one of the prev. versions of Python and chrome driver.
 #I worked in a company which provided booking for business tourism. It included working with hotels and payments. My team worked on API, hotel database and backoffice.
 
-#the urls, the names of the entities, API method elements were changed due to the NDA and the contract I had with my former employer.
+#the urls, the names of the entities, API method elements and locators were changed due to the NDA and the contract I had with my former employer.
 #but it won't affect the understanding of the code.
 #I had a strict task: to make a script which could create 300 entities with several connected entities ASAP. This script worked and helped my former team to save a lot of time for further testing.
 
